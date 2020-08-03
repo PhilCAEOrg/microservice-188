@@ -113,7 +113,7 @@ public class Res extends RESTService {
 
 
 
-    // resp
+    // resp2
     boolean resp_condition = true;
     if(resp_condition) {
       JSONObject result = new JSONObject();
